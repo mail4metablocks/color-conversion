@@ -1,8 +1,7 @@
 [package]
 name = "tiny_color"
 version = "0.1.0"
-authors = ["Your Name <your@email.com>"]
 description = "A tiny color conversion library for TUI application builders"
-license = "MIT"
+license = "Apache"
 
 [dependencies]
